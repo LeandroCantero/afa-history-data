@@ -103,7 +103,7 @@ class SeasonPreparer
         team2 = normalize_team(team2_raw)
         venue_str = clean_venue(venue)
 
-        match_str = "  #{team1}  #{ft1}-#{ft2} (0-0), #{p1}-#{p2} pen.  #{team2}"
+        match_str = "  #{team1}  #{ft1}-#{ft2}, #{p1}-#{p2} pen.  #{team2}"
         match_str += "  @ #{venue_str}" unless venue_str.empty?
         out_lines << match_str
         next
@@ -140,7 +140,7 @@ class SeasonPreparer
         next if team1.empty? || team2.empty?
 
         venue_str = clean_venue(venue)
-        match_str = "  #{team1}  #{score1}-#{score2} (0-0)  #{team2}"
+        match_str = "  #{team1}  #{score1}-#{score2}  #{team2}"
         match_str += "  @ #{venue_str}" unless venue_str.empty?
         out_lines << match_str
       end

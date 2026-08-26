@@ -155,7 +155,7 @@ module SportDb
 
       score = node.score
       if score.is_a?(Array)
-        raise CompatibilityError, 'COMPAT_UNSUPPORTED_REPORTED: generic reported scores have no proven full-time meaning'
+        score = { ft: score }
       end
       return if score.nil?
       unless score.is_a?(Hash)
@@ -192,7 +192,7 @@ module SportDb
       if context[:source_score].nil? && score == []
         score = {}
       elsif score.is_a?(Array)
-        raise CompatibilityError, 'COMPAT_UNSUPPORTED_REPORTED: generic reported scores have no proven full-time meaning'
+        score = { ft: score }
       end
       score ||= {}
 
