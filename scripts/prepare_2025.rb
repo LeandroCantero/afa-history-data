@@ -90,19 +90,21 @@ class SeasonPreparer
       next if line_clean.start_with?('[') && line_clean.end_with?(']')
 
       # Match line format with Penalty Shootout (pso): e.g. CA Boca Juniors [4] 0- 0 [2] CA Lanús pso
-      if line_clean =~ /^(.+?)\s+\[(\d+)\]\s+(\d+)\s*-\s*(\d+)\s+\[(\d+)\]\s+(.+?)\s+pso/i
+      if line_clean =~ /^(.+?)\s+\[(\d+)\]\s+(\d+)\s*-\s*(\d+)\s+\[(\d+)\]\s+(.+)$/
         team1_raw = $1.strip
         p1 = $2.strip
         ft1 = $3.strip
         ft2 = $4.strip
         p2 = $5.strip
-        rest = $6.strip
+        rest = $6.strip.sub(/^pso,?\s*/i, '').strip
 
-        team2_raw, _venue = split_team2_and_venue(rest)
+        team2_raw, venue = split_team2_and_venue(rest)
         team1 = normalize_team(team1_raw)
         team2 = normalize_team(team2_raw)
+        venue_str = clean_venue(venue)
 
         match_str = "  #{team1}  #{ft1}-#{ft2} (0-0), #{p1}-#{p2} pen.  #{team2}"
+        match_str += "  @ #{venue_str}" unless venue_str.empty?
         out_lines << match_str
         next
       end
@@ -112,7 +114,7 @@ class SeasonPreparer
         team1_raw = $1.strip
         rest = $2.strip
         status = $3.downcase
-        team2_raw, _venue = split_team2_and_venue(rest)
+        team2_raw, venue = split_team2_and_venue(rest)
         team1 = normalize_team(team1_raw)
         team2 = normalize_team(team2_raw)
 
@@ -121,7 +123,7 @@ class SeasonPreparer
         next
       end
 
-      # Regular match line format: Team A score1- score2 Team B
+      # Regular match line format: Team A score1- score2 Team B [venue]
       if line_clean =~ /^([A-Za-zÁÉÍÓÚáéíóúÑñ\.\s\(\)']+?)\s+(\d+)\s*-\s*(\d+)\s+(.+)$/
         team1_raw = $1.strip
         score1 = $2.strip
@@ -137,8 +139,9 @@ class SeasonPreparer
 
         next if team1.empty? || team2.empty?
 
-        # Append (0-0) HT structure so match node score is a Hash required by models_v2
+        venue_str = clean_venue(venue)
         match_str = "  #{team1}  #{score1}-#{score2} (0-0)  #{team2}"
+        match_str += "  @ #{venue_str}" unless venue_str.empty?
         out_lines << match_str
       end
     end
@@ -179,15 +182,22 @@ class SeasonPreparer
     @alias_map[cleaned.downcase] || cleaned
   end
 
+  def clean_venue(venue)
+    cleaned = venue.strip.sub(/^pso,?\s*/i, '').tr('"', '').gsub(/\s{2,}/, ' ')
+    cleaned = cleaned.sub(/^,\s*/, '').sub(/,\s*[A-Z]$/, '').strip
+    cleaned
+  end
+
   def split_team2_and_venue(rest)
+    cleaned_rest = rest.sub(/^pso,?\s*/i, '').sub(/^,\s*/, '').strip
     @alias_map.keys.sort_by { |k| -k.length }.each do |alias_lc|
-      if rest.downcase.start_with?(alias_lc)
-        team2 = rest[0...alias_lc.length]
-        venue = rest[alias_lc.length..-1].strip
+      if cleaned_rest.downcase.start_with?(alias_lc)
+        team2 = cleaned_rest[0...alias_lc.length]
+        venue = cleaned_rest[alias_lc.length..-1].strip
         return [team2, venue]
       end
     end
-    parts = rest.split(/\s{2,}/, 2)
+    parts = cleaned_rest.split(/\s{2,}/, 2)
     [parts[0], parts[1] || '']
   end
 end
