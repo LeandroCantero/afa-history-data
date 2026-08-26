@@ -24,7 +24,7 @@ El ciclo de vida autorizado es **`sources → staging → data → build`**. Cad
 | `staging/` | Salidas descartables de las herramientas oficiales durante preparación, inspección y conversión. |
 | `data/primera/<season>/` | Football.TXT canónico: un archivo por cada torneo confirmado por RSSSF para esa temporada. |
 | `config/club_aliases.yml` | Única tabla declarativa de aliases y normalización de clubes. |
-| `scripts/` | Orquestación reproducible exclusivamente; nunca contiene un parser, schema o modelo alternativo. |
+| `scripts/` | Orquestación reproducible exclusivamente; ejecuta el motor oficial **`Rsssf::Fmtfix.fmtfix`** de Gerald Bauer (`rsssf/scripts`). Nunca contiene un parser, schema o modelo alternativo. |
 | `compat/` | Adaptación externa y acotada entre el parser moderno y `fbtxt2sqlite`; su contrato está en [`docs/COMPATIBILITY_ADAPTER.md`](docs/COMPATIBILITY_ADAPTER.md). |
 | `tests/` | Fixtures y pruebas de compatibilidad, validación y rechazo fail-closed. |
 | `build/` | SQLite, logs y demás resultados regenerables. Nunca es fuente canónica. |
