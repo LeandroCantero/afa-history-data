@@ -1,0 +1,203 @@
+# Mapa canónico de aliases de clubes de la Primera División Argentina (2025)
+# Referencia de naming basada en openfootball/clubs (ar.clubs.txt)
+
+"Argentinos Juniors":
+  canonical: "Argentinos Juniors"
+  aliases:
+    - "Asociación Atlética Argentinos Juniors"
+    - "AA Argentinos Juniors"
+    - "Argentinos"
+    - "Argentinos Jrs"
+
+"Boca Juniors":
+  canonical: "Boca Juniors"
+  aliases:
+    - "Club Atlético Boca Juniors Asociación Civil"
+    - "CA Boca Juniors"
+    - "Boca"
+    - "Boca Jrs"
+
+"River Plate":
+  canonical: "River Plate"
+  aliases:
+    - "Club Atlético River Plate Asoc. Civil"
+    - "CA River Plate"
+    - "River"
+
+"San Lorenzo":
+  canonical: "San Lorenzo"
+  aliases:
+    - "Club Atlético San Lorenzo de Almagro"
+    - "CA San Lorenzo de Almagro"
+    - "CA San Lorenzo"
+
+"Vélez Sarsfield":
+  canonical: "Vélez Sarsfield"
+  aliases:
+    - "Club Atlético Vélez Sarsfield Asociación Civil"
+    - "CA Vélez Sarsfield"
+    - "Vélez"
+    - "Vélez Sarsfield"
+
+"Huracán":
+  canonical: "Huracán"
+  aliases:
+    - "Club Atlético Huracán"
+    - "CA Huracán"
+
+"Barracas Central":
+  canonical: "Barracas Central"
+  aliases:
+    - "Club Atlético Barracas Central"
+    - "CA Barracas Central"
+
+"Deportivo Riestra":
+  canonical: "Deportivo Riestra"
+  aliases:
+    - "Deportivo Riestra Asociación de Fomento Barrio Colón"
+    - "Deportivo Riestra AFBC"
+
+"Tigre":
+  canonical: "Tigre"
+  aliases:
+    - "Club Atlético Tigre Sociedad Civil"
+    - "CA Tigre"
+
+"Independiente":
+  canonical: "Independiente"
+  aliases:
+    - "Club Atlético Independiente"
+    - "CA Independiente"
+
+"Racing Club":
+  canonical: "Racing Club"
+  aliases:
+    - "Racing Club Asociación Civil"
+    - "Racing"
+
+"Lanús":
+  canonical: "Lanús"
+  aliases:
+    - "Club Atlético Lanús"
+    - "CA Lanús"
+
+"Estudiantes LP":
+  canonical: "Estudiantes LP"
+  aliases:
+    - "Club Estudiantes de La Plata"
+    - "Estudiantes de La Plata"
+    - "Estudiantes"
+
+"Gimnasia y Esgrima LP":
+  canonical: "Gimnasia y Esgrima LP"
+  aliases:
+    - "Club de Gimnasia y Esgrima La Plata"
+    - "Club de Gimnasia y Esgrima LP"
+    - "Gimnasia LP"
+    - "Gimnasia La Plata"
+
+"Aldosivi":
+  canonical: "Aldosivi"
+  aliases:
+    - "Club Atlético Aldosivi"
+    - "CA Aldosivi"
+
+"Banfield":
+  canonical: "Banfield"
+  aliases:
+    - "Club Atlético Banfield Sociedad Civil"
+    - "CA Banfield"
+
+"Defensa y Justicia":
+  canonical: "Defensa y Justicia"
+  aliases:
+    - "Club Social y Deportivo Defensa y Justicia"
+    - "CSD Defensa y Justicia"
+
+"Sarmiento":
+  canonical: "Sarmiento"
+  aliases:
+    - "Club Atlético Sarmiento"
+    - "CA Sarmiento (Junín)"
+    - "CA Sarmiento"
+
+"Platense":
+  canonical: "Platense"
+  aliases:
+    - "Club Atlético Platense Asociación Civil"
+    - "CA Platense"
+
+"Unión":
+  canonical: "Unión"
+  aliases:
+    - "Club Atlético Unión"
+    - "CA Unión"
+    - "Unión de Santa Fe"
+
+"Newell's Old Boys":
+  canonical: "Newell's Old Boys"
+  aliases:
+    - "Club Atlético Newell's Old Boys"
+    - "CA Newell's Old Boys"
+    - "Newell's"
+
+"Rosario Central":
+  canonical: "Rosario Central"
+  aliases:
+    - "Club Atlético Rosario Central"
+    - "CA Rosario Central"
+
+"Talleres":
+  canonical: "Talleres"
+  aliases:
+    - "Club Atlético Talleres"
+    - "CA Talleres"
+    - "Talleres de Córdoba"
+
+"Belgrano":
+  canonical: "Belgrano"
+  aliases:
+    - "Club Atlético Belgrano"
+    - "CA Belgrano"
+    - "Belgrano de Córdoba"
+
+"Instituto":
+  canonical: "Instituto"
+  aliases:
+    - "Instituto Atlético Central Córdoba"
+    - "Instituto ACC"
+    - "Instituto (Córdoba)"
+
+"Godoy Cruz":
+  canonical: "Godoy Cruz"
+  aliases:
+    - "Club Deportivo Godoy Cruz Antonio Tomba"
+    - "CD Godoy Cruz Antonio Tomba"
+    - "CD Godoy Cruz AT"
+    - "Godoy Cruz Antonio Tomba"
+
+"Independiente Rivadavia":
+  canonical: "Independiente Rivadavia"
+  aliases:
+    - "Club Sportivo Independiente Rivadavia"
+    - "CS Independiente Rivadavia"
+
+"San Martín (SJ)":
+  canonical: "San Martín (SJ)"
+  aliases:
+    - "Club Atlético San Martín"
+    - "CA San Martín (San Juan)"
+    - "CA San Martín"
+
+"Atlético Tucumán":
+  canonical: "Atlético Tucumán"
+  aliases:
+    - "Club Atlético Tucumán Soc. Civil"
+    - "Club Atlético Tucumán"
+
+"Central Córdoba (SdE)":
+  canonical: "Central Córdoba (SdE)"
+  aliases:
+    - "Club Atlético Central Córdoba Soc. Civil"
+    - "CA Central Córdoba (Sant. Estero)"
+    - "CA Central Córdoba"

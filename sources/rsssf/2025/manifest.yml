@@ -1,0 +1,6 @@
+source: https://www.rsssf.org/tablesa/arg2025.html
+repository: https://github.com/rsssf/tables
+repository_file: tablesa/arg2025.txt
+season: 2025
+retrieved_date: '2026-08-26'
+description: Captura inmutable de la temporada 2025 de la Primera División Argentina desde rsssf/tables.

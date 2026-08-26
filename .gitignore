@@ -1,0 +1,16 @@
+# Artefactos regenerables
+build/
+*.db
+*.sqlite3
+
+# Salidas descartables y archivos temporales
+staging/
+scratch/
+
+# Repositorios y herramientas de terceros clonados
+vendor/
+
+# Entorno y logs
+*.log
+.DS_Store
+Thumbs.db
