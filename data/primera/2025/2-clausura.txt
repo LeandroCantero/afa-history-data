@@ -1,0 +1,380 @@
+= Argentina | Primera División 2025
+
+# Date       Fri Jul 11 - Sun Dec 14 2025
+# Teams      30
+# Matches    255
+# Stages     Torneo Clausura (255)
+
+== Torneo Clausura
+
+
+[2025 AFA LPF Closing Tournament]
+#.Full name                                               MP   W  D  L  Gf- Ga   P  (Headquarters on)
+
+▪ Primera fase de zonas - Phase of groups ▪
+▪ Round 1 ▪
+Fri Jul 11
+  Aldosivi  0-0  Central Córdoba (SdE)  @ José María Minella, Mar del Plata
+  Talleres  1-2  San Lorenzo  @ Mario Alberto Kempes, Córdoba
+Sat Jul 12
+  Huracán  0-3  Belgrano  @ Tomás Adolfo Ducó, Parque Patricios
+  Rosario Central  1-1  Godoy Cruz  @ Gigante de Arroyito, Rosario
+  Gimnasia y Esgrima LP  0-1  Instituto  @ Juan Carmelo Zerillo, La Plata
+  Racing Club  0-1  Barracas Central  @ Presidente Perón, Avellaneda
+Sun Jul 13
+  Argentinos Juniors  0-0  Boca Juniors  @ Diego Armando Maradona, Villa General Mitre
+  River Plate  3-1  Platense  @ Mâs Monumental, Belgrano
+  Sarmiento  2-2  Independiente  @ Eva Perón, Junín
+  Atlético Tucumán  2-1  San Martín (SJ)  @ José Fierro, San Miguel de Tucumán
+  Independiente Rivadavia  1-2  Newell's Old Boys  @ Bautista Gargantini, Mendoza
+Mon Jul 14
+  Banfield  0-0  Defensa y Justicia  @ Florencio Sola, Banfield
+  Unión  1-0  Estudiantes LP  @ 15 de Abril, Santa Fe
+  Vélez Sarsfield  2-1  Tigre  @ José Amalfitani, Liniers
+  Deportivo Riestra  1-0  Lanús  @ Guillermo Laza, Villa Soldati
+▪ Round 2 ▪
+Fri Jul 18
+  Boca Juniors  1-1  Unión  @ Alberto J. Armando, La Boca
+  Atlético Tucumán  1-1  Central Córdoba (SdE)  @ José Fierro, San Miguel de Tucumán
+Sat Jul 19
+  Lanús  0-1  Rosario Central  @ Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada
+  Platense  0-0  Vélez Sarsfield  @ Ciudad de Vicente López, Florida
+  San Lorenzo  0-0  Gimnasia y Esgrima LP  @ Pedro Bidegain, Flores
+  Godoy Cruz  0-0  Sarmiento  @ Feliciano Gambarte, Godoy Cruz
+  Instituto  0-4  River Plate  @ Mario Alberto Kempes, Córdoba
+Sun Jul 20
+  Barracas Central  0-3  Independiente Rivadavia  @ Claudio Chiqui Tapia, Barracas
+  Belgrano  0-1  Racing Club  @ Julio César Villagra, Córdoba
+  Independiente  1-2  Talleres  @ Libertadores de América - Ricardo Enrique Bochini, Avellaneda
+  Newell's Old Boys  1-2  Banfield  @ Marcelo A. Bielsa, Rosario
+  Tigre  2-1  Argentinos Juniors  @ José Dellagiovanna, Victoria
+Mon Jul 21
+  San Martín (SJ)  3-2  Deportivo Riestra  @ Ingeniero Hilario Sánchez, San Juan
+  Estudiantes LP  2-1  Huracán  @ UNO Dr. Jorge Luis Hirschi, La Plata
+  Defensa y Justicia  2-0  Aldosivi  @ Norberto Tito Tomaghello, Gobernador Costa
+▪ Round 3 ▪
+Fri Jul 25
+  Sarmiento  0-2  Lanús  @ Eva Perón, Junín
+  Unión  0-0  Tigre  @ 15 de Abril, Santa Fe
+  Independiente Rivadavia  0-0  Belgrano  @ Bautista Gargantini, Mendoza
+Sat Jul 26
+  Aldosivi  0-0  Newell's Old Boys  @ José María Minella, Mar del Plata
+  Platense  0-0  Argentinos Juniors  @ Ciudad de Vicente López, Florida
+  Rosario Central  0-0  San Martín (SJ)  @ Gigante de Arroyito, Rosario
+  Vélez Sarsfield  0-0  Instituto  @ José Amalfitani, Liniers
+  Racing Club  0-1  Estudiantes LP  @ Presidente Perón, Avellaneda
+Sun Jul 27
+  Huracán  1-0  Boca Juniors  @ Tomás Adolfo Ducó, Parque Patricios
+  River Plate  0-0  San Lorenzo  @ Mâs Monumental, Belgrano
+  Talleres  0-0  Godoy Cruz  @ Mario Alberto Kempes, Córdoba
+  Gimnasia y Esgrima LP  1-0  Independiente  @ Juan Carmelo Zerillo, La Plata
+Mon Jul 28
+  Banfield  1-3  Barracas Central  @ Florencio Sola, Banfield
+  Central Córdoba (SdE)  2-1  Defensa y Justicia  @ Único Madre de Ciudades, Santiago del Estero
+  Deportivo Riestra  1-0  Atlético Tucumán  @ Guillermo Laza, Villa Soldati
+▪ Round 4 ▪
+Thu Aug 7
+  San Lorenzo  1-0  Vélez Sarsfield  @ Pedro Bidegain, Flores
+  Godoy Cruz  1-2  Gimnasia y Esgrima LP  @ Feliciano Gambarte, Godoy Cruz
+  Estudiantes LP  2-1  Independiente Rivadavia  @ UNO Dr. Jorge Luis Hirschi, La Plata
+Fri Aug 8
+  Lanús  1-0  Talleres  @ Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada
+  Newell's Old Boys  1-1  Central Córdoba (SdE)  @ Marcelo A. Bielsa, Rosario
+  Tigre  0-1  Huracán  @ José Dellagiovanna, Victoria
+Sat Aug 9
+  Belgrano  2-1  Banfield  @ Julio César Villagra, Córdoba
+  Boca Juniors  1-1  Racing Club  @ Alberto J. Armando, La Boca
+  Independiente  0-0  River Plate  @ Libertadores de América - Ricardo Enrique Bochini, Avellaneda
+  San Martín (SJ)  0-1  Sarmiento  @ Ingeniero Hilario Sánchez, San Juan
+  Atlético Tucumán  0-0  Rosario Central  @ José Fierro, San Miguel de Tucumán
+Sun Aug 10
+  Argentinos Juniors  1-0  Unión  @ Diego Armando Maradona, Villa General Mitre
+  Barracas Central  3-1  Aldosivi  @ Claudio Chiqui Tapia, Barracas
+  Instituto  1-1  Platense  @ Juan Domingo Perón, Córdoba
+Mon Aug 11
+  Defensa y Justicia  1-0  Deportivo Riestra  @ Norberto Tito Tomaghello, Gobernador Costa
+▪ Round 5 ▪
+Fri Aug 15
+  Aldosivi  0-0  Belgrano  @ José María Minella, Mar del Plata
+  Instituto  0-4  Unión  @ Juan Domingo Perón, Córdoba
+  Racing Club  1-2  Tigre  @ Presidente Perón, Avellaneda
+Sat Aug 16
+  Huracán  1-0  Argentinos Juniors  @ Tomás Adolfo Ducó, Parque Patricios
+  Platense  2-1  San Lorenzo  @ Ciudad de Vicente López, Florida
+  Rosario Central  1-1  Deportivo Riestra  @ Gigante de Arroyito, Rosario
+  Vélez Sarsfield  2-1  Independiente  @ José Amalfitani, Liniers
+Sun Aug 17
+  Banfield  3-2  Estudiantes LP  @ Florencio Sola, Banfield
+  Central Córdoba (SdE)  1-1  Barracas Central  @ Único Madre de Ciudades, Santiago del Estero
+  River Plate  4-2  Godoy Cruz  @ Mâs Monumental, Belgrano
+  Gimnasia y Esgrima LP  1-2  Lanús  @ Juan Carmelo Zerillo, La Plata
+  Independiente Rivadavia  0-3  Boca Juniors  @ Malvinas Argentinas, Mendoza
+  Defensa y Justicia  1-1  Newell's Old Boys  @ Norberto Tito Tomaghello, Gobernador Costa
+Mon Aug 18
+  Sarmiento  2-2  Atlético Tucumán  @ Eva Perón, Junín
+  Talleres  0-0  San Martín (SJ)  @ Mario Alberto Kempes, Córdoba
+▪ Round 6 ▪
+Fri Aug 22
+  Barracas Central  1-1  Defensa y Justicia  @ Claudio Chiqui Tapia, Barracas
+  Tigre  1-1  Independiente Rivadavia  @ José Dellagiovanna, Victoria
+Sat Aug 23
+  Rosario Central  1-0  Newell's Old Boys  @ Gigante de Arroyito, Rosario
+  San Lorenzo  1-0  Instituto  @ Pedro Bidegain, Flores
+  San Martín (SJ)  1-0  Gimnasia y Esgrima LP  @ Ingeniero Hilario Sánchez, San Juan
+  Atlético Tucumán  3-0  Talleres  @ José Fierro, San Miguel de Tucumán
+Sun Aug 24
+  Argentinos Juniors  4-1  Racing Club  @ Diego Armando Maradona, Villa General Mitre
+  Boca Juniors  2-0  Banfield  @ Alberto J. Armando, La Boca
+  Unión  1-1  Huracán  @ 15 de Abril, Santa Fe
+Mon Aug 25
+  Belgrano  0-3  Central Córdoba (SdE)  @ Julio César Villagra, Córdoba
+  Lanús  1-1  River Plate  @ Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada
+  Godoy Cruz  0-2  Vélez Sarsfield  @ Feliciano Gambarte, Godoy Cruz
+  Estudiantes LP  1-0  Aldosivi  @ UNO Dr. Jorge Luis Hirschi, La Plata
+  Deportivo Riestra  3-0  Sarmiento  @ Guillermo Laza, Villa Soldati
+Fri Oct 24
+  Independiente  3-0  Platense  @ Libertadores de América - Ricardo Enrique Bochini, Avellaneda
+▪ Round 7 ▪
+Fri Aug 29
+  Banfield  1-0  Tigre  @ Florencio Sola, Banfield
+  Newell's Old Boys  1-2  Barracas Central  @ Marcelo A. Bielsa, Rosario
+  Instituto  0-0  Independiente  @ Juan Domingo Perón, Córdoba
+Sat Aug 30
+  Central Córdoba (SdE)  2-0  Estudiantes LP  @ Único Madre de Ciudades, Santiago del Estero
+  San Lorenzo  0-0  Huracán  @ Pedro Bidegain, Flores
+  Sarmiento  0-1  Rosario Central  @ abandoned at 0-0 in 45m HT, remaining time on 24 Oct, Eva Perón, Junín
+  Vélez Sarsfield  3-0  Lanús  @ José Amalfitani, Liniers
+  Independiente Rivadavia  2-1  Argentinos Juniors  @ Bautista Gargantini, Mendoza
+Sun Aug 31
+  Aldosivi  0-2  Boca Juniors  @ José María Minella, Mar del Plata
+  River Plate  2-0  San Martín (SJ)  @ Mâs Monumental, Belgrano
+  Talleres  0-1  Deportivo Riestra  @ Mario Alberto Kempes, Córdoba
+  Defensa y Justicia  2-1  Belgrano  @ Norberto Tito Tomaghello, Gobernador Costa
+  Racing Club  2-3  Unión  @ Presidente Perón, Avellaneda
+Mon Sep 1
+  Platense  1-3  Godoy Cruz  @ Ciudad de Vicente López, Florida
+  Gimnasia y Esgrima LP  1-0  Atlético Tucumán  @ Juan Carmelo Zerillo, La Plata
+▪ Round 8 ▪
+Thu Sep 11
+  Belgrano  0-0  San Martín (SJ)  @ Julio César Villagra, Córdoba
+Fri Sep 12
+  Huracán  0-0  Vélez Sarsfield  @ Tomás Adolfo Ducó, Parque Patricios
+  Lanús  1-0  Independiente Rivadavia  @ Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada
+  Newell's Old Boys  2-0  Atlético Tucumán  @ Marcelo A. Bielsa, Rosario
+  Deportivo Riestra  2-0  Central Córdoba (SdE)  @ Guillermo Laza, Villa Soldati
+  Racing Club  2-0  San Lorenzo  @ Presidente Perón, Avellaneda
+Sat Sep 13
+  Independiente  0-1  Banfield  @ Libertadores de América - Ricardo Enrique Bochini, Avellaneda
+  Sarmiento  2-0  Aldosivi  @ Eva Perón, Junín
+  Godoy Cruz  0-0  Barracas Central  @ Feliciano Gambarte, Godoy Cruz
+  Estudiantes LP  1-2  River Plate  @ UNO Dr. Jorge Luis Hirschi, La Plata
+Sun Sep 14
+  Rosario Central  1-1  Boca Juniors  @ Gigante de Arroyito, Rosario
+  Tigre  0-0  Talleres  @ José Dellagiovanna, Victoria
+  Gimnasia y Esgrima LP  1-3  Unión  @ Juan Carmelo Zerillo, La Plata
+  Defensa y Justicia  1-2  Platense  @ Norberto Tito Tomaghello, Gobernador Costa
+  Instituto  2-0  Argentinos Juniors  @ Juan Domingo Perón, Córdoba
+▪ Round 9 ▪
+Fri Sep 19
+  Huracán  0-2  Racing Club  @ Tomás Adolfo Ducó, Parque Patricios
+  Lanús  2-1  Platense  @ Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada
+  San Martín (SJ)  1-2  Vélez Sarsfield  @ Ingeniero Hilario Sánchez, San Juan
+  Deportivo Riestra  1-0  Gimnasia y Esgrima LP  @ Guillermo Laza, Villa Soldati
+Sat Sep 20
+  Barracas Central  0-1  Sarmiento  @ Claudio Chiqui Tapia, Barracas
+  Tigre  2-0  Aldosivi  @ abandoned at 2-0 in 73, remaining time on 21 Sep, José Dellagiovanna, Victoria
+  Unión  2-2  Independiente Rivadavia  @ 15 de Abril, Santa Fe
+  Atlético Tucumán  2-0  River Plate  @ José Fierro, San Miguel de Tucumán
+Sun Sep 21
+  Argentinos Juniors  3-0  Banfield  @ Diego Armando Maradona, Villa General Mitre
+  Boca Juniors  2-2  Central Córdoba (SdE)  @ Alberto J. Armando, La Boca
+  Independiente  1-1  San Lorenzo  @ Libertadores de América - Ricardo Enrique Bochini, Avellaneda
+  Rosario Central  1-1  Talleres  @ Gigante de Arroyito, Rosario
+  Godoy Cruz  1-1  Instituto  @ Feliciano Gambarte, Godoy Cruz
+Mon Sep 22
+  Belgrano  3-0  Newell's Old Boys  @ Julio César Villagra, Córdoba
+  Estudiantes LP  1-0  Defensa y Justicia  @ UNO Dr. Jorge Luis Hirschi, La Plata
+▪ Round 10 ▪
+Fri Sep 26
+  Banfield  0-0  Unión  @ Florencio Sola, Banfield
+  Central Córdoba (SdE)  0-1  Tigre  @ Único Madre de Ciudades, Santiago del Estero
+  Platense  2-2  San Martín (SJ)  @ Ciudad de Vicente López, Florida
+Sat Sep 27
+  Aldosivi  0-2  Argentinos Juniors  @ José María Minella, Mar del Plata
+  San Lorenzo  2-0  Godoy Cruz  @ Pedro Bidegain, Flores
+  Talleres  1-0  Sarmiento  @ Mario Alberto Kempes, Córdoba
+  Gimnasia y Esgrima LP  0-3  Rosario Central  @ Juan Carmelo Zerillo, La Plata
+  Defensa y Justicia  2-1  Boca Juniors  @ Norberto Tito Tomaghello, Gobernador Costa
+Sun Sep 28
+  River Plate  1-2  Deportivo Riestra  @ Mâs Monumental, Belgrano
+  Independiente Rivadavia  0-0  Huracán  @ Bautista Gargantini, Mendoza
+  Instituto  0-0  Lanús  @ Juan Domingo Perón, Córdoba
+  Racing Club  0-0  Independiente  @ Presidente Perón, Avellaneda
+Mon Sep 29
+  Barracas Central  1-1  Belgrano  @ Claudio Chiqui Tapia, Barracas
+  Vélez Sarsfield  3-1  Atlético Tucumán  @ José Amalfitani, Liniers
+Tue Sep 30
+  Newell's Old Boys  1-1  Estudiantes LP  @ Marcelo A. Bielsa, Rosario
+▪ Round 11 ▪
+Fri Oct 3
+  Argentinos Juniors  0-0  Central Córdoba (SdE)  @ Diego Armando Maradona, Villa General Mitre
+  Tigre  1-1  Defensa y Justicia  @ José Dellagiovanna, Victoria
+  Unión  0-2  Aldosivi  @ 15 de Abril, Santa Fe
+Sat Oct 4
+  Huracán  1-0  Banfield  @ Tomás Adolfo Ducó, Parque Patricios
+  Lanús  2-1  San Lorenzo  @ Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada
+  San Martín (SJ)  0-0  Instituto  @ Ingeniero Hilario Sánchez, San Juan
+  Sarmiento  0-1  Gimnasia y Esgrima LP  @ Eva Perón, Junín
+  Atlético Tucumán  2-0  Platense  @ José Fierro, San Miguel de Tucumán
+Sun Oct 5
+  Boca Juniors  5-0  Newell's Old Boys  @ Alberto J. Armando, La Boca
+  Rosario Central  2-1  River Plate  @ Gigante de Arroyito, Rosario
+  Talleres  0-0  Belgrano  @ Mario Alberto Kempes, Córdoba
+  Godoy Cruz  1-1  Independiente  @ Feliciano Gambarte, Godoy Cruz
+  Estudiantes LP  1-1  Barracas Central  @ UNO Dr. Jorge Luis Hirschi, La Plata
+Mon Oct 6
+  Deportivo Riestra  2-2  Vélez Sarsfield  @ Guillermo Laza, Villa Soldati
+  Racing Club  0-0  Independiente Rivadavia  @ Presidente Perón, Avellaneda
+▪ Round 12 ▪
+Fri Oct 10
+  Central Córdoba (SdE)  3-1  Unión  @ Único Madre de Ciudades, Santiago del Estero
+  Newell's Old Boys  1-1  Tigre  @ Marcelo A. Bielsa, Rosario
+  San Lorenzo  0-1  San Martín (SJ)  @ Pedro Bidegain, Flores
+  Defensa y Justicia  1-0  Argentinos Juniors  @ Norberto Tito Tomaghello, Gobernador Costa
+Sat Oct 11
+  Banfield  1-3  Racing Club  @ Florencio Sola, Banfield
+  Belgrano  1-1  Estudiantes LP  @ Julio César Villagra, Córdoba
+  Vélez Sarsfield  1-2  Rosario Central  @ José Amalfitani, Liniers
+  Gimnasia y Esgrima LP  1-2  Talleres  @ Juan Carmelo Zerillo, La Plata
+Sun Oct 12
+  Aldosivi  2-0  Huracán  @ José María Minella, Mar del Plata
+  Independiente  0-2  Lanús  @ Libertadores de América - Ricardo Enrique Bochini, Avellaneda
+  River Plate  0-1  Sarmiento  @ Mâs Monumental, Belgrano
+  Independiente Rivadavia  0-0  Godoy Cruz  @ Bautista Gargantini, Mendoza
+  Instituto  2-0  Atlético Tucumán  @ Juan Domingo Perón, Córdoba
+Mon Oct 13
+  Platense  1-1  Deportivo Riestra  @ Ciudad de Vicente López, Florida
+Mon Oct 27
+  Barracas Central  1-3  Boca Juniors  @ Claudio Chiqui Tapia, Barracas
+▪ Round 13 ▪
+Fri Oct 17
+  Argentinos Juniors  3-1  Newell's Old Boys  @ Diego Armando Maradona, Villa General Mitre
+  Lanús  2-0  Godoy Cruz  @ Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada
+  Racing Club  1-0  Aldosivi  @ Presidente Perón, Avellaneda
+Sat Oct 18
+  Boca Juniors  1-2  Belgrano  @ Alberto J. Armando, La Boca
+  Talleres  0-2  River Plate  @ Mario Alberto Kempes, Córdoba
+  Independiente Rivadavia  1-2  Banfield  @ Bautista Gargantini, Mendoza
+Sun Oct 19
+  Rosario Central  1-0  Platense  @ Gigante de Arroyito, Rosario
+  San Martín (SJ)  1-0  Independiente  @ Ingeniero Hilario Sánchez, San Juan
+  Sarmiento  0-2  Vélez Sarsfield  @ Eva Perón, Junín
+  Estudiantes LP  2-0  Gimnasia y Esgrima LP  @ UNO Dr. Jorge Luis Hirschi, La Plata
+Mon Oct 20
+  Tigre  2-2  Barracas Central  @ José Dellagiovanna, Victoria
+  Atlético Tucumán  1-2  San Lorenzo  @ José Fierro, San Miguel de Tucumán
+  Deportivo Riestra  1-0  Instituto  @ Guillermo Laza, Villa Soldati
+Tue Oct 21
+  Unión  3-0  Defensa y Justicia  @ 15 de Abril, Santa Fe
+Wed Oct 22
+  Huracán  0-1  Central Córdoba (SdE)  @ Tomás Adolfo Ducó, Parque Patricios
+▪ Round 14 ▪
+Fri Oct 31
+  Newell's Old Boys  0-1  Unión  @ Marcelo A. Bielsa, Rosario
+  San Lorenzo  1-0  Deportivo Riestra  @ Pedro Bidegain, Flores
+  Instituto  1-3  Rosario Central  @ Juan Domingo Perón, Córdoba
+Sat Nov 1
+  Aldosivi  3-1  Independiente Rivadavia  @ José María Minella, Mar del Plata
+  Barracas Central  2-0  Argentinos Juniors  @ Claudio Chiqui Tapia, Barracas
+  Independiente  3-0  Atlético Tucumán  @ Libertadores de América - Ricardo Enrique Bochini, Avellaneda
+  Vélez Sarsfield  0-1  Talleres  @ José Amalfitani, Liniers
+Sun Nov 2
+  River Plate  0-1  Gimnasia y Esgrima LP  @ Mâs Monumental, Belgrano
+  Godoy Cruz  0-0  San Martín (SJ)  @ Feliciano Gambarte, Godoy Cruz
+  Estudiantes LP  1-2  Boca Juniors  @ UNO Dr. Jorge Luis Hirschi, La Plata
+Mon Nov 3
+  Banfield  2-1  Lanús  @ Florencio Sola, Banfield
+  Belgrano  0-0  Tigre  @ Julio César Villagra, Córdoba
+  Central Córdoba (SdE)  0-0  Racing Club  @ Único Madre de Ciudades, Santiago del Estero
+  Platense  1-1  Sarmiento  @ Ciudad de Vicente López, Florida
+  Defensa y Justicia  1-3  Huracán  @ Norberto Tito Tomaghello, Gobernador Costa
+▪ Round 15 ▪
+Sun Oct 19
+  Boca Juniors  2-0  River Plate  @ Alberto J. Armando, La Boca
+Fri Nov 7
+  Rosario Central  0-0  San Lorenzo  @ Gigante de Arroyito, Rosario
+Sat Nov 8
+  Huracán  0-2  Newell's Old Boys  @ Tomás Adolfo Ducó, Parque Patricios
+  San Martín (SJ)  1-1  Lanús  @ Ingeniero Hilario Sánchez, San Juan
+  Talleres  1-0  Platense  @ Mario Alberto Kempes, Córdoba
+  Unión  0-0  Barracas Central  @ 15 de Abril, Santa Fe
+  Racing Club  1-0  Defensa y Justicia  @ Presidente Perón, Avellaneda
+Sun Nov 9
+  Banfield  0-1  Aldosivi  @ Florencio Sola, Banfield
+  Sarmiento  2-1  Instituto  @ Eva Perón, Junín
+  Tigre  1-0  Estudiantes LP  @ José Dellagiovanna, Victoria
+  Atlético Tucumán  2-1  Godoy Cruz  @ José Fierro, San Miguel de Tucumán
+Mon Nov 10
+  Argentinos Juniors  1-0  Belgrano  @ Diego Armando Maradona, Villa General Mitre
+  Gimnasia y Esgrima LP  2-0  Vélez Sarsfield  @ Juan Carmelo Zerillo, La Plata
+  Independiente Rivadavia  0-0  Central Córdoba (SdE)  @ Bautista Gargantini, Mendoza
+  Deportivo Riestra  0-1  Independiente  @ Guillermo Laza, Villa Soldati
+▪ Round 16 ▪
+Fri Nov 14
+  Lanús  3-1  Atlético Tucumán  @ Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada
+Sat Nov 15
+  Aldosivi  4-2  San Martín (SJ)  @ José María Minella, Mar del Plata
+  Independiente  1-0  Rosario Central  @ Libertadores de América - Ricardo Enrique Bochini, Avellaneda
+  San Lorenzo  1-1  Sarmiento  @ Pedro Bidegain, Flores
+  Godoy Cruz  1-1  Deportivo Riestra  @ Feliciano Gambarte, Godoy Cruz
+Sun Nov 16
+  Boca Juniors  2-0  Tigre  @ Alberto J. Armando, La Boca
+  Central Córdoba (SdE)  1-1  Banfield  @ Único Madre de Ciudades, Santiago del Estero
+  Newell's Old Boys  0-1  Racing Club  @ Marcelo A. Bielsa, Rosario
+  Vélez Sarsfield  0-0  River Plate  @ José Amalfitani, Liniers
+  Estudiantes LP  1-2  Argentinos Juniors  @ UNO Dr. Jorge Luis Hirschi, La Plata
+  Instituto  0-0  Talleres  @ Juan Domingo Perón, Córdoba
+Mon Nov 17
+  Barracas Central  1-1  Huracán  @ Claudio Chiqui Tapia, Barracas
+  Belgrano  0-0  Unión  @ Julio César Villagra, Córdoba
+  Platense  0-3  Gimnasia y Esgrima LP  @ Ciudad de Vicente López, Florida
+  Defensa y Justicia  0-2  Independiente Rivadavia  @ Norberto Tito Tomaghello, Gobernador Costa
+
+#.Short name                          MP   W  D  L  Gf- Ga   P  (Position of)
+
+#.Short name                          MP   W  D  L  Gf- Ga   P  (Position of)
+
+▪ Round of 16 - Octavos de Final ▪
+Sat Nov 22
+  Central Córdoba (SdE)  2-1  San Lorenzo  @ Único Madre de Ciudades, Santiago del Estero
+  Vélez Sarsfield  0-2  Argentinos Juniors  @ José Amalfitani, Liniers
+Sun Nov 23
+  Boca Juniors  2-0  Talleres  @ Alberto J. Armando, La Boca
+  Rosario Central  0-1  Estudiantes LP  @ Gigante de Arroyito, Rosario
+Mon Nov 24
+  Unión  1-2  Gimnasia y Esgrima LP  @ 15 de Abril, Santa Fe
+  Deportivo Riestra  0-1  Barracas Central  @ aet, Guillermo Laza, Villa Soldati
+  Racing Club  3-2  River Plate  @ Presidente Perón, Avellaneda
+Wed Nov 26
+  Lanús  0-1  Tigre  @ Ciudad de Lanús - Néstor Díaz Pérez, Remedios de Escalada
+▪ Quarter finals - Cuartos de final ▪
+Sat Nov 29
+  Central Córdoba (SdE)  0-1  Estudiantes LP  @ Único Madre de Ciudades, Santiago del Estero
+Sun Nov 30
+  Boca Juniors  1-0  Argentinos Juniors  @ Alberto J. Armando, La Boca
+Mon Dec 1
+  Barracas Central  0-2  Gimnasia y Esgrima LP  @ Claudio Chiqui Tapia, Barracas
+  Racing Club  0-0, 4-2 pen.  Tigre  @ aet, pso, Presidente Perón, Avellaneda
+▪ Semi finals - Semifinales ▪
+Sun Dec 7
+  Boca Juniors  0-1  Racing Club  @ Alberto J. Armando, La Boca
+Mon Dec 8
+  Gimnasia y Esgrima LP  0-1  Estudiantes LP  @ Juan Carmelo Zerillo, La Plata
+▪ Final ▪
+Sun Dec 14
+  Racing Club  1-1, 4-5 pen.  Estudiantes LP  @ aet, pso, Único Madre de Ciudades, Santiago del Estero
+
+
+#.Short name                          MP   W  D  L  Gf: Ga  Ps Aver.
+
+

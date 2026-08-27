@@ -91,6 +91,7 @@ module SportDb
 
     ALLOWED_NODES = [
       Fbtxt::Parser::BlankLine,
+      Fbtxt::Parser::NoteLine,
       Fbtxt::Parser::GroupDef,
       Fbtxt::Parser::RoundOutline,
       Fbtxt::Parser::DateHeader,
