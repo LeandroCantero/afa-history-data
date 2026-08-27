@@ -78,6 +78,23 @@ Thu Jan 23
 
 ---
 
+## Protocolo de Auditoría e Integridad Post-Procesamiento (por Temporada)
+
+Debido a que la estructura del fútbol argentino cambia según la época (Apertura/Clausura, Metropolitano/Nacional, torneos de 30 equipos, era amateur con asociaciones simultáneas), tras procesar cada año se ejecuta obligatoriamente la **Auditoría Post-Procesamiento**:
+
+1. **Validación Sintáctica Estricta**:
+   - `fbtok data/primera/<año>/*.txt` debe retornar 0 errores sintácticos.
+2. **Validación de Compilación en SQLite**:
+   - `ruby scripts/build.rb` debe compilar exitosamente la base de datos `build/argentina.db`.
+3. **Auditoría de Integridad y Estructura Histórica**:
+   - **Formato del Archivo**: Nombre correcto según la época (`1-apertura.txt`, `1-metropolitano.txt`, `1-campeonato.txt`).
+   - **Verificación de Participantes**: Confirmar que la cantidad de `# Teams` coincida con los clubes oficiales de esa temporada.
+   - **Verificación de Partidos**: Confirmar que la suma total de `# Matches` coincida con el formato del torneo (fase regular + playoffs/finales).
+   - **Normalización de Clubes**: Verificar que ningún equipo quede sin mapear en `config/club_aliases.yml`.
+
+---
+
 ## Reglas de Automatización
 - **100% Herramientas Oficiales**: Se utiliza el código de Gerald Bauer (`rsssf`, `fbtok`, `fbtxt2sqlite`). No se crean parsers propios.
 - **Preservación Factual**: Se respetan los hechos informados por RSSSF. Nunca se inventan marcadores ni datos ausentes.
+- **Auditoría Obligatoria**: Ninguna temporada se da por finalizada sin haber superado el protocolo de auditoría post-procesamiento.
